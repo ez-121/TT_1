@@ -1,6 +1,5 @@
-h1{
-    background-color: #ef4444;
-    color: #ffffff;
-    font-size: 3rem;
-    padding: 2.5rem;
-}
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+
+import Home from './pages/home';
+import Courses from './pages/courses';
+import Notfound from './pages/Notfound';
