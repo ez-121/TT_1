@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+<rect width="500" height="500" rx="20" fill="#eee9df"/>
+<ellipse cx="250" cy="420" rx="125" ry="18" fill="#d6d0c6"/>
+<path d="M175 100 L215 78 Q250 104 285 78 L325 100 L390 155 L345 220 L310 198 L310 390 Q250 410 190 390 L190 198 L155 220 L110 155 Z" fill="#fffdf8" stroke="#d5d0c7" stroke-width="5" stroke-linejoin="round"/>
+<path d="M215 80 Q220 130 250 130 Q280 130 285 80" fill="none" stroke="#d5d0c7" stroke-width="5"/>
+<path d="M190 198 L190 390 M310 198 L310 390" stroke="#e7e2d9" stroke-width="3"/>
+<text x="250" y="465" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" letter-spacing="4" fill="#8b8174">CLASSIC T-SHIRT</text>
+</svg>
